@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  
+  "status": {
+    "working": true,
+    "public": false,
+    "stable": true
+  },
+
+  "note": "",
+  "links": {
+    "discord": "https://discord.gg/5TGnAr6J5z"
+  },
+
+  "beta": {
+    "version": "1.0.0",
+    "note": ""
+  },
+
+  "download": [
+    {
+      "name": "injector",
+      "href": "",
+      "hash": "",
+      "required": true,
+      "localPath": "./injector.exe",
+      "fileName": "injector.exe"
+    },
+    {
+      "name": "interface",
+      "href": "",
+      "hash": "",
+      "required": true,
+      "localPath": "./chaos.exe",
+      "fileName": "chaos.exe"
+    },
+    {
+      "name": "module",
+      "href": "",
+      "hash": "",
+      "required": true,
+      "localPath": "./Chaosploit.dll",
+      "fileName": "Chaosploit.dll"
+    }
+  ]
+}
