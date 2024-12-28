@@ -19,25 +19,25 @@
 
   "download": [
     {
+      "id": 0,
       "name": "injector",
       "href": "",
-      "hash": "",
       "required": true,
       "localPath": "./injector.exe",
       "fileName": "injector.exe"
     },
     {
+      "id": 1,
       "name": "interface",
       "href": "",
-      "hash": "",
       "required": true,
       "localPath": "./chaos.exe",
       "fileName": "chaos.exe"
     },
     {
+      "id": 2,
       "name": "module",
       "href": "",
-      "hash": "",
       "required": true,
       "localPath": "./Chaosploit.dll",
       "fileName": "Chaosploit.dll"
