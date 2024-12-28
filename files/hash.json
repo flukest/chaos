@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "fileName": "chaos.exe",
+    "alias": "nova.exe",
+    "hash": "A3E97A38E4DDDFA062B63AB1300888EF4AC4D45EB1C0E8108B0207324F2984A6",
+    "type": "SHA256"
+  },
+  {
+    "id": 1,
+    "fileName": "Chaosploit.dll",
+    "alias": null,
+    "hash": "3C6EC7D2E84BC802C86FB08515E265C95FCB628613D615AE10A79ABED54F3547",
+    "type": "SHA256"
+  },
+    {
+    "id": 1,
+    "fileName": "injector.exe",
+    "alias": null,
+    "hash": "E53E8DBE452D2CC12CB4BCCC39D447682C820FB4DCBF89371F42E62F4AFAEBC5",
+    "type": "SHA256"
+  }
+]
