@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
+  "bootstrapperVersion": "1.0.0".
   
   "status": {
     "working": true,
@@ -7,7 +8,11 @@
     "stable": true
   },
 
-  "note": "",
+  "note": {
+    "message": "The bootstrapper should be placed in the same directory as where you want to install Chaos.",
+    "type": "small"
+  },
+  
   "links": {
     "discord": "https://discord.gg/5TGnAr6J5z"
   },
