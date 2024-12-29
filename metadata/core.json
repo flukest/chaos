@@ -28,7 +28,7 @@
       "name": "injector",
       "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/injector.exe",
       "required": true,
-      "localPath": "./injector.exe",
+      "localPath": "./files/injector.exe",
       "fileName": "injector.exe"
     },
     {
@@ -36,7 +36,7 @@
       "name": "interface",
       "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/chaos.exe",
       "required": true,
-      "localPath": "./chaos.exe",
+      "localPath": "./files/chaos.exe",
       "fileName": "chaos.exe"
     },
     {
@@ -44,7 +44,7 @@
       "name": "module",
       "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/Chaosploit.dll",
       "required": true,
-      "localPath": "./Chaosploit.dll",
+      "localPath": "./files/Chaosploit.dll",
       "fileName": "Chaosploit.dll"
     }
   ]
