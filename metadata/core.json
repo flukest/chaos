@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bootstrapperVersion": "1.0.0",
   
   "status": {
@@ -26,7 +26,7 @@
     {
       "id": 0,
       "name": "injector",
-      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/injector.exe",
+      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/1.0.1/injector.exe",
       "required": true,
       "localPath": "./files/injector.exe",
       "fileName": "injector.exe"
@@ -34,7 +34,7 @@
     {
       "id": 1,
       "name": "interface",
-      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/chaos.exe",
+      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/1.0.1/chaos.exe",
       "required": true,
       "localPath": "./files/chaos.exe",
       "fileName": "chaos.exe"
@@ -42,7 +42,7 @@
     {
       "id": 2,
       "name": "module",
-      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/Chaosploit.dll",
+      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/1.0.1/Chaosploit.dll",
       "required": true,
       "localPath": "./files/Chaosploit.dll",
       "fileName": "Chaosploit.dll"
@@ -50,7 +50,7 @@
     {
       "id": 3,
       "name": "jsoncpp",
-      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/jsoncpp.dll",
+      "href": "https://github.com/flukest/chaos/raw/refs/heads/main/files/1.0.1/jsoncpp.dll",
       "required": true,
       "localPath": "./files/jsoncpp.dll",
       "fileName": "jsoncpp.dll"
