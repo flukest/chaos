@@ -9,7 +9,7 @@
   },
 
   "note": {
-    "message": "The bootstrapper should be placed in the same directory as where you want to install Chaos.",
+    "message": "We are aware of the downtime with the executor. An update will be pushed soon.",
     "type": "small"
   },
   
