@@ -3,9 +3,9 @@
   "bootstrapperVersion": "1.0.0",
   
   "status": {
-    "working": true,
+    "working": false,
     "public": false,
-    "stable": true
+    "stable": false
   },
 
   "note": {
